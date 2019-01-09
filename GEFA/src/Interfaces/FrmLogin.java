@@ -49,11 +49,11 @@ public class FrmLogin extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel2.setText("Utilisateur");
+        jLabel2.setText("Utilisateur :");
 
-        jLabel3.setText("Mot de passe");
+        jLabel3.setText("Mot de passe :");
 
-        btnAceptar.setForeground(new java.awt.Color(255, 0, 204));
+        btnAceptar.setForeground(new java.awt.Color(25,60, 204));
         btnAceptar.setText("Valider");
         btnAceptar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
