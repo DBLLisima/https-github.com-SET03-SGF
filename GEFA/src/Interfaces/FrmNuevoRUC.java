@@ -76,7 +76,7 @@ public class FrmNuevoRUC extends javax.swing.JInternalFrame {
             }
         });
 
-        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(200,200 ,200));
 
         jLabel1.setText("RAISON SOCIALE ");
 
@@ -88,7 +88,7 @@ public class FrmNuevoRUC extends javax.swing.JInternalFrame {
 
         btnGuardar.setBackground(new java.awt.Color(204, 204, 204));
         btnGuardar.setForeground(new java.awt.Color(255, 51, 204));
-        btnGuardar.setText("Sauvgarder");
+        btnGuardar.setText("Enregistrer");
         btnGuardar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnGuardarActionPerformed(evt);
