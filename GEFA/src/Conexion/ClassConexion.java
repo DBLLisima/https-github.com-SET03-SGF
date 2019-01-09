@@ -17,7 +17,7 @@ import javax.swing.*;
  *
  * @author Diego
  */
-public class ClassConexion {
+public class ClassConexion  {
     
     private Connection conexion;
     
