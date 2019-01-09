@@ -52,7 +52,7 @@ public class FrmInicio extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        pnlContenedor.setBackground(new java.awt.Color(255, 255, 255));
+        pnlContenedor.setBackground(new java.awt.Color(241, 240, 234));//color grey
 
         javax.swing.GroupLayout pnlContenedorLayout = new javax.swing.GroupLayout(pnlContenedor);
         pnlContenedor.setLayout(pnlContenedorLayout);
